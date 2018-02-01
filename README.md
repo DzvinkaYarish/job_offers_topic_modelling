@@ -14,4 +14,5 @@ Modelled topics:
 11. Main activities on position
 12. Statistics
 13. Good words(care,family, support...)
+14. Communication
 14. Applicant status
