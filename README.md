@@ -1,4 +1,4 @@
-# job_offers_topic_modelling
+# Job offers topic modelling
 Extract topics from the online job postings(based on https://www.kaggle.com/madhab/jobposts/data), using LDA and Kmeans
 Modelled topics:
 1. Mediсine
